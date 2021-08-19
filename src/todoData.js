@@ -24,6 +24,11 @@ const todosData = [
         text: "Software development",
         completed: true
     },
+    {
+        id: 6,
+        text: "Software deplopment",
+        completed: false
+    },
 ]
 
 export default todosData
